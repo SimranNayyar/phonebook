@@ -43,7 +43,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>Phonebook</h2>
+      <h2>Phonebook - In Development</h2>
       <div>
       filter: <input
         value ={filter}
